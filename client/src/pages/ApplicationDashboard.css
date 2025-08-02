@@ -1,0 +1,23 @@
+.applicant-dashboard {
+  background: #fdf6f0; /* Soft beige background */
+  min-height: 100vh;
+  padding-top: 50px;
+}
+
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+  border: 1px solid #e0dede;
+  background-color: #fffdf9;
+}
+.list-group-item {
+  border-radius: 0.5rem;
+  margin-bottom: 8px;
+  background-color: #f8f9fa;
+}
+.badge.bg-success {
+  font-size: 0.9rem;
+  padding: 6px 12px;
+  border-radius: 10px;
+}
+
